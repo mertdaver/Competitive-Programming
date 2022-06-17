@@ -1,2 +1,3 @@
 # Competitive-Programming
-My solutions for questions i've solved since the start of 2022 till today.
+My solutions for questions I've met from the start of 2022 till today.
+Most of those questions are from CSES's problemset (https://cses.fi/problemset/) and the rest are from Codeforces (https://codeforces.com/).
